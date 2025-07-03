@@ -1,0 +1,9 @@
+streamlit>=1.44.0
+pandas>=2.0.0
+numpy>=1.23.0
+plotly>=5.13.0
+scikit-learn>=1.0.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+seaborn>=0.12.0
+matplotlib>=3.5.0
